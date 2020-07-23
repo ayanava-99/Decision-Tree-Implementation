@@ -19,7 +19,7 @@ If you still insist to run it on your PC, well the `requirements.txt` file shoul
 depends on, please install them in a virtual env using:
 
 ```
-$ conda create --name <env> --file <this file>
+$ conda create --name newenv --file requirements.txt
 ```
 
 
