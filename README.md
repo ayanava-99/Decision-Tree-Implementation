@@ -1,9 +1,9 @@
-## Decision-Tree-Implementation
+# Decision-Tree-Implementation
 Building a Decision Tree classifier from scratch :-)
 The decision tree has been built from scratch .The PDF files contain the actual tree implementation.Printing steps for every split in the decision tree for the iris dataset.
 At last there is a comparision done using the inbuilt sklearn Decision tree and comparing it with our model on the same dataset.
 
-# Python environment with a requirements.txt
+## Python environment with a requirements.txt
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)
 
