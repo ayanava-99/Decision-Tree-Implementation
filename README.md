@@ -15,7 +15,7 @@ http://mybinder.org/v2/gh/binder-examples/requirements/master
 
 
 ## Notes
-If you still ensist to run it on your PC, the `requirements.txt` file should list all Python libraries that the notebook
+If you still insist to run it on your PC, well the `requirements.txt` file should list all Python libraries (and more) that the notebook
 depends on, please install them in a virtual env using:
 
 ```
