@@ -1,5 +1,5 @@
 <h1> Decision-Tree-Implementation</h1>
-### Building a Decision Tree classifier from scratch :-) <br>
+<h3> Building a Decision Tree classifier from scratch :-) </h3> <br>
 The decision tree has been built from scratch .The PDF files contain the actual tree implementation.Printing steps for every split in the decision tree for the iris dataset.
 At last there is a comparision done using the inbuilt sklearn Decision tree and comparing it with our model on the same dataset.
 
