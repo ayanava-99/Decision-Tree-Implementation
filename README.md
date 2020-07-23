@@ -12,6 +12,7 @@ Give it a try, no need of installations!
 If you still insist to run it on your PC, well the `requirements.txt` file should list all Python libraries that the notebook
 depends on, please install them in a virtual env using:
 
+
 ```
 $ conda create --name newenv --file requirements.txt
 ```
