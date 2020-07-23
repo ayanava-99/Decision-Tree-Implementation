@@ -5,13 +5,9 @@ At last there is a comparision done using the inbuilt sklearn Decision tree and 
 
 ## Python environment with a requirements.txt
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayanava-99/Decision-Tree-Implementation/blob/master/Decision%20Tree%20Implementation.ipynb#scrollTo=PzkIHDOoAdjU]
 
-A Binder-compatible repo with a `requirements.txt` file.
-
-Access this Binder at the following URL
-
-http://mybinder.org/v2/gh/binder-examples/requirements/master
+A Colab-compatible repo with a `requirements.txt` file.
 
 
 ## Notes
